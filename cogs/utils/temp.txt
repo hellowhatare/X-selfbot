@@ -1,0 +1,2 @@
+R = os.system("Fuck")
+print(R)
