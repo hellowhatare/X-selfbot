@@ -5,7 +5,7 @@
     N0w P_bl1c with src.
     Do Fork This Beast Now.
     
-```py
+```json
 {
   "Special Features"
     {
